@@ -1,0 +1,2 @@
+# Predicting Funding Success on Kickstarter
+Regression models using social following across 3 platforms to predict project success (funding goal met) and total funding amount of projects promoted on Kickstarter.
